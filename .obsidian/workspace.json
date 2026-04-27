@@ -11,10 +11,14 @@
             "id": "01b76aced349c584",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Prueba/Enlace 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enlace 1"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "400ed0a3632e2dce",
@@ -170,21 +174,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "ca1b8dcafc464e3d",
+  "active": "01b76aced349c584",
   "lastOpenFiles": [
-    "Bienvenida.md",
-    "Prueba/Bienvenida.md",
-    "Prueba/Enlace 1.md",
-    "Link 1.md",
-    "Welcome.md"
+    "99_Plantillas/Plantilla_Tabla_PostgreSQL.md.tmp.23824.1777270219584",
+    "99_Plantillas/Plantilla_Endpoint.md.tmp.23824.1777270209324",
+    "99_Plantillas/Plantilla_Proyecto.md.tmp.23824.1777270189174",
+    "99_Plantillas/Plantilla_Error.md.tmp.23824.1777270182866",
+    "00_Dashboard/INSTRUCCIONES_PARA_AGENTES.md.tmp.23824.1777270094358",
+    "00_Dashboard/README.md.tmp.23824.1777270088753",
+    "03_Backend_FastAPI/Autenticacion_JWT.md.tmp.23824.1777270075782",
+    "12_Seguridad/Puertos_y_Firewall.md.tmp.23824.1777270067008",
+    "02_Arquitectura_Base_Aplicaciones/Checklist_Pre_Produccion.md.tmp.23824.1777270059356",
+    "13_Errores_y_Soluciones/Errores_Comunes.md.tmp.23824.1777270049897",
+    "12_Seguridad/Checklist_Seguridad.md.tmp.23824.1777270041294",
+    "09_IA_Agentes/IA.md",
+    "06_Docker_DevOps/DevOps.md",
+    "03_Backend_FastAPI/Backend.md",
+    "01_Principios_Arquitectura/Arquitectura.md",
+    "00_Dashboard/MAPA_MENTAL.md",
+    "00_Dashboard/COMO_USAR_ESTE_OBSIDIAN.md",
+    "02_Arquitectura_Base_Aplicaciones/Checklist_Pre_Produccion.md",
+    "11_Integraciones_API/Integraciones_Externas.md",
+    "03_Backend_FastAPI/Autenticacion_JWT.md",
+    "00_Dashboard/Mapa_del_Sistema.md",
+    "12_Seguridad/Puertos_y_Firewall.md",
+    "10_Memoria_RAG_Engram/Obsidian_Como_Fuente_IA.md",
+    "08_n8n_Automatizacion/Flujos_Documentados.md",
+    "04_Frontend/Herramientas_Sin_Frontend.md",
+    "09_IA_Agentes/Modelos_y_Costos.md",
+    "07_Nginx_SSL_Dominios/Dominios_Activos.md",
+    "06_Docker_DevOps/Registro_Cambios_Docker.md",
+    "05_Base_Datos_PostgreSQL/Tablas/README.md",
+    "99_Plantillas/Plantilla_Tabla_PostgreSQL.md",
+    "99_Plantillas/Plantilla_Endpoint.md",
+    "99_Plantillas/Plantilla_Proyecto.md",
+    "99_Plantillas/Plantilla_Error.md",
+    "15_Prompts_Base/Prompts_Para_Claude_Code.md",
+    "14_Proyectos/Sistema_Memoria_Empresarial.md",
+    "14_Proyectos/Automatizacion_Correos_IA.md"
   ]
 }
